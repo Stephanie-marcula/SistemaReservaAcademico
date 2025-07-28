@@ -52,7 +52,7 @@ Foram criados dois fluxos:
 
 ---
 
-## 🧪 Exemplos de Testes de funcionalidade 
+## 🧪 Exemplos de Testes de Funcionalidade 
 
 - ✅ Reserva realizada com sucesso
 - ❌ Data retroativa negada com mensagem explicativa
@@ -91,8 +91,7 @@ ProjetoAcademico-SistemaReservas/
 │
 ├── arquivos/               # Dados serializados (.dat)
 ├── relatorio/              # Documentação do projeto (.pdf, .docx)
-├── README.md               # Este arquivo
-└── SistemaReservas.jar     # Executável compilado (se disponível)
+└── README.md               # Este arquivo
 ```
 
 ---
